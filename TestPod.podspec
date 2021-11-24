@@ -32,7 +32,6 @@ TODO: Add long description of the pod here.
   s.swift_version = '5.0'
   
   s.source_files = 'Source/**/*.swift'
-  s.pathspec = ''
   
   # s.resource_bundles = {
   #   'TestPod' => ['TestPod/Assets/*.png']
